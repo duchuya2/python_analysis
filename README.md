@@ -5,3 +5,7 @@ The dataset represents 10 years (1999-2008) of clinical care at 130 US hospitals
 # Research questions
 
 ![image](https://user-images.githubusercontent.com/93334163/172459338-5bea0215-bfb3-4e9c-a60b-c9bab2c4b54a.png)
+
+# Flowchart of analysis
+![image](https://user-images.githubusercontent.com/93334163/172459609-73ffe4a7-dddc-471e-bbac-d0c6e57bd1e5.png)
+
